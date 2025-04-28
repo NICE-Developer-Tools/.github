@@ -1,10 +1,10 @@
 ![Logo](https://companieslogo.com/img/orig/NICE.D-7e1aa497.png?t=1720244493)
 
-# Welcome to NICE's developer hub!👋
+# Welcome to NICE's Developer Hub!👋
 
-At NICE, we are passionate about empowering organizations of all sizes to deliver amazing customer experiences everywhere.
+At NICE, we are passionate about empowering organizations of all sizes to deliver amazing customer experiences, everywhere.
 
-This organization is dedicated to sharing SDKs, tools, and resources that are designed to help developers, engineers, and researchers achieve more — faster.
+Our organization is dedicated to sharing SDKs, tools, and resources that are designed to help developers, engineers, and researchers achieve more — faster.
 
 ## Stay Connected
 
